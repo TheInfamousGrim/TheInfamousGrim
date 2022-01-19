@@ -4,7 +4,7 @@
 Then cryptography, and all the fun that comes with learning that math haha. 
 - 💞️ I’m looking to collaborate on ... Not sure yet haha. I wanna work with anyone doing anything with regards to blockchain technology.
 I have an interest in the supply chain side of things, but would be happy working on anything from NFTs to DeFi.
-- 📫 How to reach me: finchergeorge1@gmail.com
+- 📫 How to reach me: vaporwarewhy@gmail.com
 
 <!---
 TheInfamousGrim/TheInfamousGrim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
