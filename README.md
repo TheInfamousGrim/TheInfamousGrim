@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TheInfamousGrim
-- 👀 I’m interested in Web Development, Blockchain Development as well as some Game Development in my spare time.
-- 🌱 I’m currently learning the basics of web development, Then gonna move on and learn some basic algorithms lol. Just joined a bootcamp at the University of Birmingham
-- 💞️ I’m looking to collaborate on ... Not sure yet haha. I wanna work with anyone doing anything with regards to blockchain technology.
-I have an interest in the supply chain side of things, but would be happy working on anything from NFTs to DeFi.
+- 👀 I’m interested in web development, blockchain dev as well as some game dev in my spare time.
+- 🌱 I’m currently learning the basics of web development, Then gonna move on and learn some proper algorithms and data structures. Just joined a bootcamp at the University of Birmingham.
+- 💞️ I’m looking to collaborate on ... Not sure yet. I wanna work with anyone doing anything with regards to blockchain technology.
+I have an interest in the supply chain side management side of things as I believe these have actual value rather than NFTs in their current format.
 - 📫 How to reach me: finchergeorge1@gmail.com
 
 <!---
