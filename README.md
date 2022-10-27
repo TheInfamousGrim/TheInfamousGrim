@@ -4,7 +4,7 @@
 </picture> My Name is George
  </h1>
  
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)(https://discordapp.com/users/GrimFunk#8985)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/GrimFunk#8985)
   
 - 👋 Hi, I’m @TheInfamousGrim
 - 👀 I’m interested in web development, blockchain dev as well as some game dev in my spare time.
