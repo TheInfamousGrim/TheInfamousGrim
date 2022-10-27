@@ -4,6 +4,7 @@
 </picture> My Name is George
  </h1>
  <div align="center">[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-fincher-aa7869214/)[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/VaporWhy)[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/GrimFunk#8985)
+  </div>
   ---
   
 - 👋 Hi, I’m @TheInfamousGrim
