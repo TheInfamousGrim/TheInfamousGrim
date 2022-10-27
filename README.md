@@ -1,3 +1,8 @@
+<h1 align="center">Howdy Folks <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="32" height="32">
+</picture> My Name is George
+ </h1>
 - 👋 Hi, I’m @TheInfamousGrim
 - 👀 I’m interested in web development, blockchain dev as well as some game dev in my spare time.
 - 🌱 I’m currently learning the basics of web development, Then gonna move on and learn some proper algorithms and data structures. Just joined a bootcamp at the University of Birmingham.
