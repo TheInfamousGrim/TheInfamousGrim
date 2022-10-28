@@ -18,12 +18,13 @@
   
  ### About Me
 
-- 🎭 Fully trained in dress-up and make believe: graduated from Guildford School of Acting, Surrey with an MFA in Acting
+- 🎭 Fully trained in dress-up and make believe: graduated from Guildford School of Acting, Surrey with an MFA in Acting.
+- 🍹 Fully trained in the arts of shaking up trouble with cocktails.
 - 🏅 Finished top of my class at University of Birmingham's fullstack web dev bootcamp.
 - 💞️ Big fan of grindy games, skateboarding, economics and I dabble in 3D, pixel and vector art.
-- 🧑‍🎓 Looking to level up my code bashing skills by learning the fundamentals of blockchain technology, specifically looking at smart contract development on ethereum and cardano development
-- 🎨 See my portfolio [here](https://theinfamousgrim.github.io/george-fincher-web-portfolio/)
-- 📫 You can contact me via [Twitter](https://twitter.com/VaporWhy), [LinkedIn](https://www.linkedin.com/in/george-fincher-aa7869214/) or drop me an [e-mail](mailto:finchergeorge1@gmail.com)
+- 🧑‍🎓 Looking to level up my code bashing skills by learning the fundamentals of blockchain technology, specifically looking at smart contract development on ethereum and cardano development.
+- 🌆 See my portfolio [here](https://theinfamousgrim.github.io/george-fincher-web-portfolio/).
+- 📫 You can contact me via [Twitter](https://twitter.com/VaporWhy), [LinkedIn](https://www.linkedin.com/in/george-fincher-aa7869214/) or drop me an [e-mail](mailto:finchergeorge1@gmail.com).
 
 ---
 
@@ -44,7 +45,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-### Tools & Technologies
+### Tools & Technologies 🔧
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -55,13 +56,18 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
+## Design 🎨
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+
 ---
 
-## Trophies
+## Trophies 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TheInfamousGrim&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-## GitHub Stats
+## GitHub Stats 📈
 
 ![TheInfamousGrim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheInfamousGrim&show_icons=true&theme=tokyonight)
 
