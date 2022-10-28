@@ -18,7 +18,6 @@
   
  ### About Me
 
-- 
 - 🎭 Fully trained in dress-up and make believe: graduated from Guildford School of Acting, Surrey with an MFA in Acting
 - 🏅 Finished top of my class at University of Birmingham's fullstack web dev bootcamp.
 - 💞️ Big fan of grindy games, skateboarding, economics and I dabble in 3D, pixel and vector art.
@@ -36,7 +35,7 @@ Some skills
 
 ## Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TheInfamousGrim&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheInfamousGrim&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 TheInfamousGrim/TheInfamousGrim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
