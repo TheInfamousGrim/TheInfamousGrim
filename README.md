@@ -11,6 +11,10 @@
 <a href="https://twitter.com/VaporWhy">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
   
  </div>
+ 
+ <h3 align="center">
+  💀 Grim and Funky | 👾 Fullstack Developer | 🗺️ Birmingham, UK
+ </h3>
   
 - 👋 Hi, I’m @TheInfamousGrim
 - 👀 I’m interested in web development, blockchain dev as well as some game dev in my spare time.
