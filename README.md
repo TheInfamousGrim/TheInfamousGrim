@@ -19,7 +19,7 @@
  ### About Me
 
 - 🎭 Fully trained in dress-up and make believe: graduated from Guildford School of Acting, Surrey with an MFA in Acting.
-- 🍹 Fully trained in the arts of shaking up trouble with cocktails.
+- 🍹 Seasoned mixologist. Shaking up trouble with cocktails since 2019.
 - 🏅 Finished top of my class at University of Birmingham's fullstack web dev bootcamp.
 - 💞️ Big fan of grindy games, skateboarding, economics and I dabble in 3D, pixel and vector art.
 - 🧑‍🎓 Looking to level up my code bashing skills by learning the fundamentals of blockchain technology, specifically looking at smart contract development on ethereum and cardano development.
