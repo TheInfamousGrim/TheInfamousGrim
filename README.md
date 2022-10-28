@@ -17,7 +17,9 @@
  </h3>
   
  ### About Me
- 
+
+- 
+- 🎭 Fully trained in dress-up and make believe: graduated from Guildford School of Acting, Surrey with an MFA in Acting
 - 🏅 Finished top of my class at University of Birmingham's fullstack web dev bootcamp.
 - 💞️ Big fan of grindy games, skateboarding, economics and I dabble in 3D, pixel and vector art.
 - 🧑‍🎓 Looking to level up my code bashing skills by learning the fundamentals of blockchain technology, specifically looking at smart contract development on ethereum and cardano development
@@ -25,6 +27,16 @@
 - 📫 You can contact me via [Twitter](https://twitter.com/VaporWhy), [LinkedIn](https://www.linkedin.com/in/george-fincher-aa7869214/) or drop me an [e-mail](mailto:finchergeorge1@gmail.com)
 
 ---
+
+## Skills
+
+Some skills
+
+---
+
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheInfamousGrim&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 TheInfamousGrim/TheInfamousGrim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
