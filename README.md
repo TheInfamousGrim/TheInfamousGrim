@@ -28,7 +28,7 @@
 
 ---
 
-## Skills
+### Skills
 
 ### Languages/Frameworks ⌨️
 
