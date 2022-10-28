@@ -16,12 +16,15 @@
   💀 Grim and Funky | 👾 Fullstack Developer | 🗺️ Birmingham, UK
  </h3>
   
-- 👋 Hi, I’m @TheInfamousGrim
-- 👀 I’m interested in web development, blockchain dev as well as some game dev in my spare time.
-- 🌱 I’m currently learning the basics of web development, Then gonna move on and learn some proper algorithms and data structures. Just joined a bootcamp at the University of Birmingham.
-- 💞️ I’m looking to collaborate on ... Not sure yet. I wanna work with anyone doing anything with regards to blockchain technology.
-I have an interest in the supply chain side management side of things as I believe these have actual value rather than NFTs in their current format.
-- 📫 How to reach me: finchergeorge1@gmail.com
+ ### About Me
+ 
+- 🏅 Finished top of my class at University of Birmingham's fullstack web dev bootcamp.
+- 💞️ Big fan of grindy games, skateboarding, economics and I dabble in 3D, pixel and vector art.
+- 🧑‍🎓 Looking to level up my code bashing skills by learning the fundamentals of blockchain technology, specifically looking at smart contract development on ethereum and cardano development
+- 🎨 See my portfolio [here](https://theinfamousgrim.github.io/george-fincher-web-portfolio/)
+- 📫 You can contact me via [Twitter](https://twitter.com/VaporWhy), [LinkedIn](https://www.linkedin.com/in/george-fincher-aa7869214/) or drop me an [e-mail](mailto:finchergeorge1@gmail.com)
+
+---
 
 <!---
 TheInfamousGrim/TheInfamousGrim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
