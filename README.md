@@ -81,6 +81,8 @@
 
 ![TheInfamousGrim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheInfamousGrim&show_icons=true&theme=tokyonight)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheInfamousGrim&theme=tokyonight)](https://git.io/streak-stats)
+
 [![TheInfamousGrim's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheInfamousGrim&layout=compact&theme=tokyonight)](https://github.com/TheInfamousGrim/github-readme-stats)
 
 <!---
