@@ -16,7 +16,7 @@
  </div>
    
  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=TheInfamousGrim&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=TheInfamousGrim&style=flat-square&color=fe30bc" alt=""/>
  </div>
  
  <h3 align="center">
