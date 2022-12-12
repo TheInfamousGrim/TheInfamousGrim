@@ -1,10 +1,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3o7qE8TcxvLxDGPBmM/giphy.gif" width="100"/>
 </div>
-<div align="center">Howdy Folks <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="32" height="32">
-</picture> My Name is George
+<div align="center">
+  Howdy Folks 
+  <span>
+    <picture>
+      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.webp" type="image/webp">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.gif" alt="👻" width="32" height="32">
+    </picture> 
+  </span>
+  My Name is George
 </div>
  
  <div id="badges" align="center">
