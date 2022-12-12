@@ -33,6 +33,11 @@
 - 🌆 See my portfolio [here](https://theinfamousgrim.github.io/george-fincher-web-portfolio/).
 - 📫 You can contact me via [Twitter](https://twitter.com/VaporWhy), [LinkedIn](https://www.linkedin.com/in/george-fincher-aa7869214/) or drop me an [e-mail](mailto:finchergeorge1@gmail.com).
 
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32">
+</picture>
+
 ---
 
 ### Skills
