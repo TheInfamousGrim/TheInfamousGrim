@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3o7qE8TcxvLxDGPBmM/giphy.gif" width="100"/>
 </div>
 <div align="center">
-  Howdy Folks 
+  <h1>Howdy Folks 
   <span>
     <picture>
       <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47b/512.webp" type="image/webp">
@@ -10,6 +10,7 @@
     </picture> 
   </span>
   My Name is George
+  </h1>
 </div>
  
  <div id="badges" align="center">
