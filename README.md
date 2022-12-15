@@ -37,7 +37,7 @@
 - 💞️ Big fan of grindy games, skateboarding, economics and I dabble in 3D, pixel and vector art.
 - 🧑‍🎓 Looking to level up my code bashing skills by learning the fundamentals of blockchain technology, specifically looking at smart contract development on ethereum and cardano development.
 - 🌆 See my portfolio [here](https://theinfamousgrim.github.io/george-fincher-react-portfolio).
-- 📫 You can contact me via [Twitter](https://twitter.com/VaporWhy), [LinkedIn](https://www.linkedin.com/in/george-fincher-aa7869214/) or drop me an [e-mail](mailto:finchergeorge1@gmail.com).
+- 📫 You can contact me via [Twitter](https://twitter.com/GrimFunk69), [LinkedIn](https://www.linkedin.com/in/george-fincher-aa7869214/) or drop me an [e-mail](mailto:finchergeorge1@gmail.com).
 
 ---
 
