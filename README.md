@@ -31,9 +31,9 @@
   
  ### About Me
 
+- 🏅 Finished with 94.71% at University of Birmingham's fullstack web dev bootcamp.
 - 🎭 Fully trained in dress-up and make believe: graduated from Guildford School of Acting, Surrey with an MFA in Acting.
 - 🍹 Seasoned mixologist. Shaking up trouble with cocktails since 2019.
-- 🏅 Finished with 94.71% at University of Birmingham's fullstack web dev bootcamp.
 - 💞️ Big fan of grindy games, skateboarding, economics and I dabble in 3D, pixel and vector art.
 - 🧑‍🎓 Looking to level up my code bashing skills by learning the fundamentals of blockchain technology, specifically looking at smart contract development on ethereum and cardano blockchains.
 - 🌆 See my portfolio [here](https://theinfamousgrim.github.io/george-fincher-react-portfolio).
