@@ -36,7 +36,7 @@
 - 🎭 Fully trained in dress-up and make believe: graduated from Guildford School of Acting, Surrey with an MFA in Acting.
 - 🍹 Seasoned mixologist. Shaking up trouble with cocktails since 2019.
 - 💞️ Big fan of grindy games, skateboarding, economics and I dabble in 3D, pixel and vector art.
-- 🧑‍🎓 Looking to level up my code bashing skills by learning the fundamentals of blockchain technology, specifically looking at smart contract development on ethereum and cardano blockchains.
+- 🧑‍🎓 Looking to level up my code bashing skills by learning the fundamentals of blockchain technology, ThreeJS, Database engineering and backend development in general.
 - 🌆 See my portfolio [here](https://www.grimfunky.dev/).
 - 📫 You can contact me via [Twitter](https://twitter.com/GrimFunk69), [LinkedIn](https://www.linkedin.com/in/george-fincher-aa7869214/) or drop me an [e-mail](mailto:george@grimfunky.dev).
 
