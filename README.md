@@ -101,7 +101,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheInfamousGrim&theme=tokyonight)](https://git.io/streak-stats)
 
-[![TheInfamousGrim's Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheInfamousGrim&hide=css,pug,html&layout=compact&theme=tokyonight)](https://github.com/TheInfamousGrim/github-readme-stats)
+[![TheInfamousGrim's Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheInfamousGrim&hide=css,pug,html,handlebars&layout=compact&theme=tokyonight)](https://github.com/TheInfamousGrim/github-readme-stats)
 
 <!---
 TheInfamousGrim/TheInfamousGrim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
